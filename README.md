@@ -1,2 +1,2 @@
 # Issues_in_regression
-About regression
+About regressions and how to run regressions in R
